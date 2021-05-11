@@ -1,5 +1,6 @@
 # MyFocusiOS-SwiftUI
-app that can manage your day to day task and stay focus
+
+app that can manage your day to day task and stay focus develop with SwiftUI
 
 # What did I learn
 
