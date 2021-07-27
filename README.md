@@ -1,6 +1,10 @@
-# MyFocusiOS-SwiftUI
+# MyFocus-iOS-SwiftUI
 
 app that can manage your day to day task and stay focus develop with SwiftUI
+
+## App Icon
+![my focus'](https://user-images.githubusercontent.com/59039044/127082294-7472ee06-47aa-4916-ab9f-548ff4dbe272.png)
+
 
 # What did I learn
 
